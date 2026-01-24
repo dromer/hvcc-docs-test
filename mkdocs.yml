@@ -11,6 +11,10 @@ theme:
   palette:
     scheme: slate  # Dark mode support
 
+extra:
+  version:
+    provider: mike
+
 hooks:
   - mkdocs_hooks.py
 
