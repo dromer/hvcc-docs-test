@@ -22,6 +22,7 @@ Bugfixes:
 Refactor:
 
 * Migrate to Pathlib
+* Something with docs
 
 0.15.0
 -----
